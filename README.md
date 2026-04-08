@@ -4,7 +4,8 @@ Soy un desarrollador enfocado en crear soluciones de software escalables y explo
 
 ### 🚀 ¿Qué estoy haciendo ahora?
 - 💻 Desarrollando una **plataforma SaaS multi-tenant** orientada a la gestión de restaurantes.
-- 📚 Construyendo un sistema web de gestión de notas estudiantiles con segmentación de roles y **Firestore**.
+- 📚 Puliendo mi sistema web / PWA app de gestión de notas estudiantiles con segmentación de roles y **Firestore**. **[RegistroDocente2026](https://registrodocente2026.netlify.app/)**.
+- 🌐 Creador y desarrollador del sitio web **[CescDac](https://cescdac.com)**.
 - 🤖 Diseñando **agentes de IA** para análisis legal y como herramientas educativas.
 
 ### 🛠️ Tecnologías y Herramientas
