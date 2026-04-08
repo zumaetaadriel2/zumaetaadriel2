@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola, soy Adriel! 👋
 
-<!--
-**zumaetaadriel2/zumaetaadriel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador enfocado en crear soluciones de software escalables y explorar el potencial de la Inteligencia Artificial.
 
-Here are some ideas to get you started:
+### 🚀 ¿Qué estoy haciendo ahora?
+- 💻 Desarrollando una **plataforma SaaS multi-tenant** orientada a la gestión de restaurantes.
+- 📚 Construyendo un sistema web de gestión de notas estudiantiles con segmentación de roles y **Firestore**.
+- 🤖 Diseñando **agentes de IA** para análisis legal y como herramientas educativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+- **Desarrollo Web:** JavaScript, HTML
+- **Bases de Datos:** Firestore
+- **Arquitectura y Enfoque:** Desarrollo SaaS, Integración de IA
+
+### ⚡ Un poco más sobre mí
+- 📍 En Trujillo, Perú.
+- ⚽ En mis ratos libres, me encanta ver todo sobre deportes.
+
+### 📫 Conectemos
+- **LinkedIn:** [www.linkedin.com/in/adriel-augusto-zumaeta-calderón-94716b342](#)
+- **Email:** [zumaetaadriel2@gmail.com](mailto:zumaetaadriel2@gmail.com)
