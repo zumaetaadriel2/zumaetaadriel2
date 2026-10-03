@@ -28,6 +28,13 @@ Soy estudiante de **Ingeniería de Sistemas (8.º ciclo)** en Trujillo, Perú. C
 
 ## 🚀 Proyectos destacados
 
+### 🎓 [CescDac](https://cescdac.com)
+Plataforma web para una asociación de estudiantes de la UNT. Permite la **inscripción a cursos**, la **consulta de notas** y el **registro de pagos** subiendo la captura del comprobante.
+
+<p align="center">
+  <img src="assets/cescdac.png" alt="Captura de CescDac" width="700">
+</p>
+
 ### 📚 [RegistroDocente2026](https://registrodocente2026.netlify.app/)
 PWA para docentes que centraliza su trabajo diario:
 - Registro de **notas y asistencias**.
@@ -38,13 +45,6 @@ PWA para docentes que centraliza su trabajo diario:
 
 <p align="center">
   <img src="assets/registrodocente.gif" alt="Demo de RegistroDocente2026" width="700">
-</p>
-
-### 🎓 [CescDac](https://cescdac.com)
-Plataforma web para una asociación de estudiantes de la UNT. Permite la **inscripción a cursos**, la **consulta de notas** y el **registro de pagos** subiendo la captura del comprobante.
-
-<p align="center">
-  <img src="assets/cescdac.png" alt="Captura de CescDac" width="700">
 </p>
 
 ### 🩺 [examen-pwa](https://github.com/zumaetaadriel2/examen-pwa)
