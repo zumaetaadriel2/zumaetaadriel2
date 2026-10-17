@@ -92,8 +92,7 @@ PWA para docentes: **notas y asistencias**, **gráficos** de niveles de logro (A
 <tr>
 <td width="50%" valign="top">
 
-<!-- Cuando tengas el GIF, súbelo como assets/banqueunt.gif y cambia el src -->
-<a href="https://banqueunt.zumaetaadriel2.workers.dev/"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,100:1F6FEB&height=180&text=BanqueUNT&fontSize=40&fontColor=ffffff&desc=Banco%20de%20preguntas%20de%20Medicina&descAlignY=72&descSize=16" alt="BanqueUNT" width="100%"></a>
+<a href="https://banqueunt.zumaetaadriel2.workers.dev/"><img src="assets/banqueunt.gif" alt="Demo de BanqueUNT" width="100%"></a>
 
 ### 🩺 BanqueUNT
 PWA con banco de preguntas de medicina para practicar el **Residentado Médico**.
