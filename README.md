@@ -92,16 +92,18 @@ PWA para docentes: **notas y asistencias**, **gráficos** de niveles de logro (A
 <tr>
 <td width="50%" valign="top">
 
-<!-- Cuando tengas el GIF, súbelo como assets/examen-pwa.gif y cambia el src -->
-<a href="https://github.com/zumaetaadriel2/examen-pwa"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,100:1F6FEB&height=180&text=examen-pwa&fontSize=40&fontColor=ffffff&desc=Demo%20pr%C3%B3ximamente&descAlignY=72&descSize=16" alt="examen-pwa" width="100%"></a>
+<!-- Cuando tengas el GIF, súbelo como assets/banqueunt.gif y cambia el src -->
+<a href="https://banqueunt.zumaetaadriel2.workers.dev/"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,100:1F6FEB&height=180&text=BanqueUNT&fontSize=40&fontColor=ffffff&desc=Banco%20de%20preguntas%20de%20Medicina&descAlignY=72&descSize=16" alt="BanqueUNT" width="100%"></a>
 
-### 🩺 examen-pwa
-PWA de práctica de exámenes de medicina para el **Residentado Médico**.
+### 🩺 BanqueUNT
+PWA con banco de preguntas de medicina para practicar el **Residentado Médico**.
 
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![Repo privado](https://img.shields.io/badge/Repo-privado-555?style=flat-square&logo=github&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Ver%20c%C3%B3digo-0A1931?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zumaetaadriel2/examen-pwa)
+[![Demo](https://img.shields.io/badge/Ver%20demo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://banqueunt.zumaetaadriel2.workers.dev/)
 
 </td>
 <td width="50%" valign="top">
