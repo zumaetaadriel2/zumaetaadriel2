@@ -92,7 +92,7 @@ PWA para docentes: **notas y asistencias**, **gráficos** de niveles de logro (A
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://banqueunt.zumaetaadriel2.workers.dev/"><img src="assets/banqueunt.jpeg" alt="Demo de BanqueUNT" width="100%"></a>
+<a href="https://banqueunt.zumaetaadriel2.workers.dev/"><img src="assets/banqueunt.png" alt="Demo de BanqueUNT" width="100%"></a>
 
 ### 🩺 BanqueUNT
 PWA con banco de preguntas de medicina para practicar el **Residentado Médico**.
