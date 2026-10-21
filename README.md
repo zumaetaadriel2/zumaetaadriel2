@@ -38,7 +38,7 @@
 Soy estudiante de **Ingeniería de Sistemas (8.º ciclo)** en Trujillo, Perú. Construyo **aplicaciones web y PWA** que resuelven problemas reales en **educación y gestión**, integrando **inteligencia artificial** y **automatización** donde aportan valor.
 
 - 🎯 Busco **trabajo, prácticas y proyectos freelance**
-- 🔭 Trabajando en: **App de pastoral** y mi **portafolio web**
+- 🔭 Trabajando en: mi **portafolio web** y el **asistente de IA legal**
 - 🌱 Aprendiendo: **Agentes de IA**, **AWS** y despliegue en **VPS**
 - 🗣️ Español nativo · Inglés intermedio
 - ⚡ Dato curioso: si hay pelota de por medio, me apunto ⚽🏀🏐
@@ -108,12 +108,19 @@ PWA con banco de preguntas de medicina para practicar el **Residentado Médico**
 <td width="50%" valign="top">
 
 <!-- Cuando tengas el GIF, súbelo como assets/pastoral.gif y cambia el src -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,100:00B4D8&height=180&text=App%20de%20pastoral&fontSize=40&fontColor=ffffff&desc=En%20desarrollo&descAlignY=72&descSize=16" alt="App de pastoral" width="100%">
+<a href="https://asistencia-misa-pastoral-mariana.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,100:00B4D8&height=180&text=Pastoral%20Mariana&fontSize=40&fontColor=ffffff&desc=Asistencia%20a%20misa&descAlignY=72&descSize=16" alt="Asistencia Pastoral Mariana" width="100%"></a>
 
-### ⛪ App de pastoral
-Asistencia a misa con interacción tipo **swipe** para aceptar fotos y **mapa** con la ubicación de iglesias.
+### ⛪ Asistencia · Pastoral Mariana
+App para registrar la **asistencia a misa** de los alumnos de catequesis: interacción tipo **swipe** para aceptar fotos y **mapa** con la ubicación de iglesias.
 
-![Estado](https://img.shields.io/badge/Estado-en%20desarrollo-orange?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[![Demo](https://img.shields.io/badge/Ver%20demo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asistencia-misa-pastoral-mariana.vercel.app/)
+[![Repo](https://img.shields.io/badge/Ver%20c%C3%B3digo-0A1931?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zumaetaadriel2/asistencia-misa-pastoral)
 
 </td>
 </tr>
@@ -127,7 +134,7 @@ Asistencia a misa con interacción tipo **swipe** para aceptar fotos y **mapa** 
 
 <p align="center">
   <b>Lo que uso</b><br><br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,supabase,firebase,git,github,vscode,netlify,vercel&perline=11" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,supabase,firebase,git,github,vscode,netlify,vercel,cloudflare&perline=8" alt="Stack">
 </p>
 
 <p align="center">
