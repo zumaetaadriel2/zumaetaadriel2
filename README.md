@@ -107,8 +107,7 @@ PWA con banco de preguntas de medicina para practicar el **Residentado Médico**
 </td>
 <td width="50%" valign="top">
 
-<!-- Cuando tengas el GIF, súbelo como assets/pastoral.gif y cambia el src -->
-<a href="https://asistencia-misa-pastoral-mariana.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1931,100:00B4D8&height=180&text=Pastoral%20Mariana&fontSize=40&fontColor=ffffff&desc=Asistencia%20a%20misa&descAlignY=72&descSize=16" alt="Asistencia Pastoral Mariana" width="100%"></a>
+<a href="https://asistencia-misa-pastoral-mariana.vercel.app/"><img src="assets/pastoral.gif" alt="Demo de Asistencia Pastoral Mariana" width="100%"></a>
 
 ### ⛪ Asistencia · Pastoral Mariana
 App para registrar la **asistencia a misa** de los alumnos de catequesis: interacción tipo **swipe** para aceptar fotos y **mapa** con la ubicación de iglesias.
